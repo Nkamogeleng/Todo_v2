@@ -1,0 +1,17 @@
+.crossed-line {
+    text-decoration: line-through;
+}
+
+.App {
+    display: block;
+    border-style: solid;
+    padding: 2%;
+}
+
+/* .form {
+    max-width: 350px;
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+	margin: 0.75rem auto;
+} */
